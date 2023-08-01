@@ -1,10 +1,10 @@
-# Merhaba! Benim Adım Şeyma👋
+# Здравейте! Аз съм Шейма👋
 
-## Hakkımda
+## За мен
 
-Merhaba! Ben şeyma. JavaScript ve Python geliştiricisiyim ve Angular.js gibi modern web teknolojilerine ilgim var. Yazılım geliştirme sürecini severim ve öğrenmeye açık biriyim.
+Здравейте! Аз съм Шейма. Аз съм разработчик на JavaScript и Python и имам интерес към модерни уеб технологии като Angular.js. Обичам процеса на софтуерното разработване и съм отворена за учене.
 
-## Çalıştığım Diller
+## Работни езици
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Angular.js](https://img.shields.io/badge/-Angular.js-DD0031?style=flat&logo=angular&logoColor=white)](https://angularjs.org/)
@@ -14,6 +14,6 @@ Merhaba! Ben şeyma. JavaScript ve Python geliştiricisiyim ve Angular.js gibi m
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-## İletişim
+## Връзка
 
-E-posta: [seymaflys@gmail.com](mailto:seymaflys@gmail.com)
+mail: [seymaflys@gmail.com](mailto:seymaflys@gmail.com)
